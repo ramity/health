@@ -2,7 +2,7 @@
 	<head>
 		<title>Health tracker</title>
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
-		<link href="https://ramity.com/projects/health/css/index.css" rel="stylesheet" type="text/css" >
+		<link href="css/index.css" rel="stylesheet" type="text/css" >
 	</head>
 	<body>
 		<div id="topbar">
@@ -10,7 +10,7 @@
 				<div id="topbarlogo">Ramity</div>
 				<div id="topbarlogin">
 					<a href="https://ramity.com/projects/health/login">login</a>
-					 | 
+					 |
 					<a href="https://ramity.com/projects/health/login">register</a>
 				</div>
 			</div>
